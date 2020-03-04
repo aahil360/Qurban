@@ -92,8 +92,8 @@ print  """
 \033[1;97m	 Youtube\033[1;97m: \033[1;92mTechnical Wahab
 \033[1;97m●●●●●●●●●●●●●●●●●●●●\033[1;92m<><>\033[1;97m●●●●●●●●●●●●●●●●●●●●"""
 
-CorrectUsername = "Qurban"
-CorrectPassword = "Qurban"
+CorrectUsername = "rana"
+CorrectPassword = "rana"
 
 loop = 'true'
 while (loop == 'true'):
